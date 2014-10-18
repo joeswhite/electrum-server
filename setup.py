@@ -22,12 +22,12 @@ setup(
         'electrumserver.stratum_tcp',
         'electrumserver.stratum_http'
     ],
-    description="Bitcoin Electrum Server",
-    author="Thomas Voegtlin",
-    author_email="thomasv1@gmx.de",
+    description="FreiLectrum - FreiCoin Electrum Server",
+    author="Joe White - this version",
+    author_email="joe@freicoin.us",
     license="GNU Affero GPLv3",
-    url="https://github.com/spesmilo/electrum-server/",
-    long_description="""Server for the Electrum Lightweight Bitcoin Wallet"""
+    url="https://github.com/joeswhite/electrum-server/",
+    long_description="""Server for the FreiLectrum Lightweight FreiCoin Wallet"""
 )
 
 

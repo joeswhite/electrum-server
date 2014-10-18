@@ -1,7 +1,8 @@
 Electrum-server for the Electrum client
 =========================================
 
-  * Author: Thomas Voegtlin (ThomasV on the bitcointalk forum)
+  * Author: Joe White <joe@freicoin.us> - FreiLectrum
+            electrum - Thomas Voegtlin (ThomasV on the bitcointalk forum)
   * Language: Python
 
 Features
@@ -11,12 +12,12 @@ Features
     described by Alan Reiner (see the 'ultimate blockchain
     compression' thread in the Bitcointalk forum)
 
-  * The server requires bitcoind, leveldb and plyvel
+  * The server requires freicoind, leveldb and plyvel
 
   * The server code is open source. Anyone can run a server, removing
     single points of failure concerns.
 
-  * The server knows which set of Bitcoin addresses belong to the same
+  * The server knows which set of FreiCoin addresses belong to the same
     wallet, which might raise concerns about anonymity. However, it
     should be possible to write clients capable of using several
     servers.

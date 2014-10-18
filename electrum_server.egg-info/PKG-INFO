@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: electrum-server
+Version: 0.9
+Summary: FreiLectrum - FreiCoin Electrum Server
+Home-page: https://github.com/joeswhite/electrum-server/
+Author: Joe White - this version
+Author-email: joe@freicoin.us
+License: GNU Affero GPLv3
+Description: Server for the FreiLectrum Lightweight FreiCoin Wallet
+Platform: UNKNOWN

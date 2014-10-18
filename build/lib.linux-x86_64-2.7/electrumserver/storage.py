@@ -120,7 +120,6 @@ class Storage(object):
 		v = hex_to_int(v[0:121])
 #                v = hex_to_int(v[0:8])
 
-		print(v)
                 out.append({'tx_hash': txid, 'tx_pos':txpos, 'height': h, 'value':v})
 
         out.sort(key=lambda x:x['height'])
